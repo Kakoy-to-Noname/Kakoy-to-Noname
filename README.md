@@ -6,7 +6,7 @@
   <a href="https://t.me/N0N4M271828">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="nikita.marmazov2002@gmail.com">
+  <a href="mailto:nikita.marmazov2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
 </div>

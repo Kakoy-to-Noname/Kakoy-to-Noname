@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Header</title>
     <link rel="stylesheet" href="styles.css">
 </head>
   
@@ -23,6 +22,9 @@
   </a>
   <a href="mailto:nikita.marmazov2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
+  </a>
+  <a href="https://stepik.org/users/75600093/profile">
+    <img src="https://img.shields.io/badge/Stepik-black?style=flat-square&logo=Stepik&logoColor=white" alt="Stepik Badge">
   </a>
 </div>
 

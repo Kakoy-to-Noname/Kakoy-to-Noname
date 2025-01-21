@@ -9,7 +9,7 @@
 <body>
 <div class="header">
     <h1>My GitHub Profile</h1>
-    <p> Я крутой (ещё не) специалист !</p>
+    <p> Я (ещё не) крутой специалист !</p>
 </div>
   
 <div id="header" align="center">

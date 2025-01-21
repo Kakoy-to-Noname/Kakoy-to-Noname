@@ -1,4 +1,4 @@
-#Никита
+#Когда-нибудь здесь что-то будет
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +9,7 @@
 <body>
 <div class="header">
     <h1>My GitHub Profile</h1>
-    <p> Я крутой специалист !</p>
+    <p> Я крутой (ещё не) специалист !</p>
 </div>
   
 <div id="header" align="center">
